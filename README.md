@@ -1,6 +1,5 @@
 #using Arduino Uno
 #include <LiquidCrystal_I2C.h>
-
 // Define LCD
 LiquidCrystal_I2C lcd(0x27, 16, 2);
 
